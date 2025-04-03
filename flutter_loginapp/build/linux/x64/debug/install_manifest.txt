@@ -1,0 +1,16 @@
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/flutter_loginapp
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Lato-Regular.ttf
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo_splash.png
+/home/kath/Documents/ITC/DevAnd/flutter_loginapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/accent.png

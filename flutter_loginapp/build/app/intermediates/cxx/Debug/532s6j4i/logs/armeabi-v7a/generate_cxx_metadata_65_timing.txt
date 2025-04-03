@@ -1,0 +1,9 @@
+
+generate_cxx_metadata
+  execute-generate-process
+    exec-configure 1371ms
+  execute-generate-process completed in 1376ms
+  [gap of 15ms]
+  write-metadata-json-to-file 16ms
+generate_cxx_metadata completed in 1413ms
+
